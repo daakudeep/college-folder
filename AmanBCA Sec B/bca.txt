@@ -1,0 +1,6 @@
+<html>
+<head><title>Change Background Image</title>
+</head>
+<body background="download.JFIF">
+</body>
+</html>
